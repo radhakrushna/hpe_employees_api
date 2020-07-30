@@ -1,7 +1,7 @@
 package app
 
 import (
-	"github.com/federicoleon/bookstore_users-api/controllers/ping"
+	"github.com/radhakrushna/hpe_employees_api/controllers/ping"
 )
 
 func mapUrls() {

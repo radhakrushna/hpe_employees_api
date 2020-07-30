@@ -2,7 +2,7 @@ package app
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/radhakrushna/hpe_employees_api/logger"
+	"github.com/google/logger"
 )
 
 var (
